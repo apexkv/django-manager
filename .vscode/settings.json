@@ -1,0 +1,36 @@
+{
+	"VsCodeTaskButtons.showCounter": true,
+	"VsCodeTaskButtons.tasks": [
+		{
+			"label": "Create View",
+			"task": "Create View",
+			"tooltip": "Create View"
+		},
+		{
+			"label": "Create Serializer",
+			"task": "Create Serializer",
+			"tooltip": "Create Serializer"
+		},
+		{
+			"label": "Create Model",
+			"task": "Create Model",
+			"tooltip": "Create Model"
+		},
+		{
+			"label": "Start App",
+			"task": "Start App",
+			"tooltip": "Start App"
+		},
+		{
+			"label": "Makemigrations",
+			"task": "Makemigrations",
+			"tooltip": "Makemigrations"
+		},
+		{
+			"label": "Migrate",
+			"task": "Migrate",
+			"tooltip": "Migrate"
+		}
+	],
+	"python.analysis.autoImportCompletions": true
+}
